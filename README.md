@@ -1,7 +1,7 @@
 # kong-compose
 kong tools Utils to up all kong tools in a single docker compose.
 admin ui - Konga
-postgre 9.3 database for kong.
+postgre 9.6 database for kong.
 kong migrations
 
 references -
